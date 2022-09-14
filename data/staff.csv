@@ -1,5 +1,21 @@
-﻿name,designation,weight_limit,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
-John Smith,RN,10,x,x,x,x,x,,,,,,,,,,,,,,,,,,x,x
-Joe Donaldson,RN,10,x,x,x,,,,,,,,,,,,,,,x,x,x,x,x,x,x
-Jenny Frank,RN,10,,,,,,x,x,x,x,x,x,x,x,,,,,,,,,,,
-Emma Watt,RPN,10,,,,,,,,,,,,,x,x,x,x,x,x,x,x,,,,x
+﻿name,designation,weight_limit,shift_length,weekly_hours,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+John Smith,RN,10,12,48,x,x,x,x,x,x,x
+Joe Donaldson,RN,10,12,48,x,x,x,x,x,x,x
+Jenny Frank,RN,10,24,48,x,x,x,x,x,x,x
+Emma Watt,RPN,10,24,48,x,x,x,x,x,x,x
+Julia Wong,RN,10,12,48,x,x,x,x,x,,
+Jacee Blais,RN,10,12,48,x,x,x,x,x,,
+Matthew Schmidt,RN,10,12,48,x,x,x,x,x,,
+Davis Manchester,RN,10,12,48,x,x,x,x,x,,
+Montero Lindsay,RN,10,12,48,x,x,x,x,x,,
+Jacob Lindsay,RN,10,12,48,x,x,x,x,x,,
+James Bruce Grapefruit,RN,10,12,48,x,x,x,x,x,,
+Josh Allen,RN,10,12,48,x,x,x,,,x,x
+Bret McAllister,RN,10,12,48,x,x,x,x,x,,
+Jesus McDonald,RN,10,12,48,x,x,x,x,x,,
+Donald Birch,RN,10,12,48,x,x,x,x,x,,
+Donna Arnold,RN,10,12,48,x,x,x,x,x,,
+Emily Roberts,RN,10,12,24,x,x,x,x,x,,
+Brad Pitt,RN,10,12,24,x,x,x,x,x,,
+Ricardo Count,RN,10,12,24,x,x,x,x,x,x,x
+Terrence Countryman,RN,10,12,24,x,x,x,x,x,,
